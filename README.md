@@ -1,5 +1,5 @@
 # Botka
-cd Desktop   (optiona)
+cd Desktop   (optional)
 
 git clone https://github.com/ahmad-360/Botka.git
 
